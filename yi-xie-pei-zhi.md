@@ -21,5 +21,11 @@ url($segment, $params = array(), $noredirect = false)
 文件路径：\web\common\common.func.php
 ```
 
+utility/bindcall
+
+```
+\web\source\utility\bindcall.ctrl.php
+```
+
 
 
