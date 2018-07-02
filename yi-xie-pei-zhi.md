@@ -21,6 +21,14 @@ url($segment, $params = array(), $noredirect = false)
 文件路径：\web\common\common.func.php
 ```
 
+module\_entries
+
+```
+\framework\model\module.mod.php
+```
+
+
+
 utility/bindcall
 
 ```
